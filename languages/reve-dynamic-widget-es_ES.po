@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Reve Dynamic Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-22 23:52+0000\n"
+"PO-Revision-Date: 2021-02-01 22:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: reve-dynamic-widget-class.php:23
+msgid "Add any HTML or PHP code in any page of your site."
+msgstr "Añade cualquier código HTML o PHP en cualquier página de tu sitio."
+
+#. Description of the plugin
+msgid ""
+"Add any text, HTML, CSS, Javascript and/or PHP code, and show it in the "
+"pages you want."
+msgstr ""
+"Añade cualquier texto, HTML, CSS, Javascript o PHP, y muéstralo en las "
+"páginas que quieras."
+
+#: reve-dynamic-widget-class.php:271
+msgid "Add paragraphs automatically."
+msgstr "Añadir párrafos automáticamente."
+
+#: reve-dynamic-widget-class.php:269
+msgid "Content (text, HTML or PHP):"
+msgstr "Contenido (texto, HTML o PHP):"
+
+#: reve-dynamic-widget-class.php:270
+msgid "Evaluate content with PHP (be careful)."
+msgstr "Evaluar contenido con PHP (sé cuidadoso)."
+
+#: reve-dynamic-widget-class.php:279
+msgid "Exclude posts or pages (comma separated ids):"
+msgstr "Excluir entradas o páginas (ids separados por coma):"
+
+#. Author of the plugin
+msgid "Fernando Reve"
+msgstr "Fernando Reve"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#| msgid "http://www.promostudio.es"
+msgid "https://promostudio.es"
+msgstr "https://promostudio.es"
+
+#. Name of the plugin
+msgid "Reve Dynamic Widget"
+msgstr "Reve Dynamic Widget"
+
+#: reve-dynamic-widget-class.php:276
+msgid "Show in archive pages."
+msgstr "Mostrar en páginas de archivo."
+
+#: reve-dynamic-widget-class.php:273
+msgid "Show in blog page."
+msgstr "Mostrar en página del blog."
+
+#: reve-dynamic-widget-class.php:278
+msgid "Show in error pages."
+msgstr "Mostrar en páginas de error."
+
+#: reve-dynamic-widget-class.php:272
+msgid "Show in front page."
+msgstr "Mostrar en página de inicio."
+
+#: reve-dynamic-widget-class.php:275
+msgid "Show in pages."
+msgstr "Mostrar en páginas."
+
+#: reve-dynamic-widget-class.php:274
+msgid "Show in posts."
+msgstr "Mostrar en entradas."
+
+#: reve-dynamic-widget-class.php:277
+msgid "Show in search pages."
+msgstr "Mostrar en páginas de búsqueda."
+
+#: reve-dynamic-widget-class.php:268
+msgid "Show title."
+msgstr "Mostrar título."
+
+#: reve-dynamic-widget-class.php:267
+msgid "Title:"
+msgstr "Título:"
